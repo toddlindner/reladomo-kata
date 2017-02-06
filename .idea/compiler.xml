@@ -15,7 +15,6 @@
     <bytecodeTargetLevel>
       <module name="main-kata" target="1.8" />
       <module name="mini-kata" target="1.8" />
-      <module name="reladomo-kata" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
