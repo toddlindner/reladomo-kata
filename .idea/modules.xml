@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/main-kata/main-kata.iml" filepath="$PROJECT_DIR$/main-kata/main-kata.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-kata/mini-kata.iml" filepath="$PROJECT_DIR$/mini-kata/mini-kata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/reladomo-kata.iml" filepath="$PROJECT_DIR$/.idea/reladomo-kata.iml" />
     </modules>
   </component>
 </project>
